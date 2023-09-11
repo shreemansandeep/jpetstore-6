@@ -1,3 +1,6 @@
+youtube --> https://www.youtube.com/watch?v=uUQFE_EF7Ds&ab_channel=Mr.CloudBook
+Blog--> https://mrcloudbook.hashnode.dev/devsecops-project-complete-ci-cd-3-tier-app-petshop
+
 MyBatis JPetStore
 =================
 
